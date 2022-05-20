@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ProductsMeli</string>
+    <string name="search_in_mercado_libre">Buscar en Mercado Libre</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="product_photo">product_photo</string>
+    <string name="internet_not_available">Internet its not available</string>
+    <string name="thats_do_you_want_to_know_about_product">Lo que tienes que tener en cuenta de este producto</string>
+    <string name="about_it">Descripción</string>
+    <string name="cannot_download_product_detail">No se pudo descargar el detalle del producto.</string>
+    <string name="an_error_has_ocurred_try_onece">Ha ocurrido un error, intente nuevamente.</string>
+    <string name="search_place_holder_image">search place holder image</string>
+    <string name="cannot_find_products">No encontramos publicaciones\n Revisa que la palabra esté bien escrita.</string>
+    <string name="type_some_word_to_start_search">Escribe algo en la barra para comenzar la búsqueda.</string>
+    <string name="interests_quotes">en %1$s x $%1$s sin interès</string>
+    <string name="available_quantity">%1$s Disponibles</string>
+</resources>

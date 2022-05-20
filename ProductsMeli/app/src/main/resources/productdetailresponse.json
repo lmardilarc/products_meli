@@ -1,0 +1,720 @@
+{
+  "id": "MLC16171888",
+  "status": "active",
+  "sold_quantity": 6013,
+  "domain_id": "MLC-GAME_CONSOLES",
+  "permalink": "https://www.mercadolibre.cl/sony-playstation-5-825gb-standard-color-blanco-y-negro/p/MLC16171888",
+  "name": "Sony PlayStation 5 825GB Standard color blanco y negro",
+  "family_name": "Sony PlayStation 5 Standard",
+  "buy_box_winner": {
+    "item_id": "MLC609825903",
+    "category_id": "MLC438566",
+    "seller_id": 237204860,
+    "price": 712883,
+    "currency_id": "CLP",
+    "sold_quantity": 500,
+    "available_quantity": 1,
+    "installments": {
+      "quantity": 1,
+      "amount": 712883,
+      "rate": 0,
+      "currency_id": "CLP"
+    },
+    "shipping": {
+      "mode": "me2",
+      "tags": [
+        "self_service_in",
+        "mandatory_free_shipping"
+      ],
+      "free_shipping": true,
+      "logistic_type": "cross_docking",
+      "store_pick_up": false
+    },
+    "warranty": "Garantía de fábrica: 12 meses",
+    "condition": "new",
+    "sale_terms": [
+      {
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantía",
+        "value_id": "2230279",
+        "value_name": "Garantía de fábrica",
+        "value_struct": null
+      },
+      {
+        "id": "WARRANTY_TIME",
+        "name": "Tiempo de garantía",
+        "value_id": null,
+        "value_name": "12 meses",
+        "value_struct": {
+          "number": 12,
+          "unit": "meses"
+        }
+      }
+    ],
+    "official_store_id": null,
+    "original_price": null,
+    "listing_type_id": "gold_special",
+    "accepts_mercadopago": true,
+    "seller_address": {
+      "city": {
+        "name": "Estacion Central"
+      },
+      "state": {
+        "name": "RM (Metropolitana)"
+      }
+    },
+    "international_delivery_mode": "none",
+    "tags": [
+      "immediate_payment",
+      "loyalty_discount_eligible",
+      "cart_eligible",
+      "good_quality_picture"
+    ],
+    "item_override_attributes": [],
+    "deal_ids": [],
+    "tier": "",
+    "product_id": "MLC16171888",
+    "site_id": "MLC"
+  },
+  "buy_box_winner_price_range": null,
+  "pickers": null,
+  "pictures": [
+    {
+      "id": "682904-MLA45732843790_042021",
+      "url": "https://mla-s1-p.mlstatic.com/682904-MLA45732843790_042021-F.jpg",
+      "suggested_for_picker": [
+        "COLOR"
+      ],
+      "max_width": 924,
+      "max_height": 1197
+    },
+    {
+      "id": "891899-MLA45732843792_042021",
+      "url": "https://mla-s2-p.mlstatic.com/891899-MLA45732843792_042021-F.jpg",
+      "suggested_for_picker": [],
+      "max_width": 906,
+      "max_height": 981
+    },
+    {
+      "id": "700356-MLA45732886203_042021",
+      "url": "https://mla-s1-p.mlstatic.com/700356-MLA45732886203_042021-F.jpg",
+      "suggested_for_picker": [],
+      "max_width": 1136,
+      "max_height": 686
+    }
+  ],
+  "main_features": [
+    {
+      "text": "Incluye control.",
+      "type": "key_value",
+      "metadata": {
+        "key": "",
+        "value": ""
+      }
+    },
+    {
+      "text": "Resolución de 3840px x 2160px.",
+      "type": "key_value",
+      "metadata": {
+        "key": "",
+        "value": ""
+      }
+    },
+    {
+      "text": "Memoria RAM de 16GB.",
+      "type": "key_value",
+      "metadata": {
+        "key": "",
+        "value": ""
+      }
+    },
+    {
+      "text": "Horas de diversión garantizada.",
+      "type": "key_value",
+      "metadata": {
+        "key": "",
+        "value": ""
+      }
+    },
+    {
+      "text": "Cuenta con: 1 soporte vertical, 1 cable de alimentación ac, 1 cable usb, 1 cable hdmi, 1 guía de inicio rápido, 1 guía de seguridad.",
+      "type": "key_value",
+      "metadata": {
+        "key": "",
+        "value": ""
+      }
+    }
+  ],
+  "attributes": [
+    {
+      "id": "BRAND",
+      "name": "Marca",
+      "value_id": "995",
+      "value_name": "Sony",
+      "values": [
+        {
+          "id": "995",
+          "name": "Sony"
+        }
+      ]
+    },
+    {
+      "id": "LINE",
+      "name": "Línea",
+      "value_id": "312177",
+      "value_name": "PlayStation",
+      "values": [
+        {
+          "id": "312177",
+          "name": "PlayStation"
+        }
+      ]
+    },
+    {
+      "id": "MODEL",
+      "name": "Modelo",
+      "value_id": "9087659",
+      "value_name": "PlayStation 5",
+      "values": [
+        {
+          "id": "9087659",
+          "name": "PlayStation 5"
+        }
+      ]
+    },
+    {
+      "id": "EDITION",
+      "name": "Edición",
+      "value_id": "7779125",
+      "value_name": "Standard",
+      "values": [
+        {
+          "id": "7779125",
+          "name": "Standard"
+        }
+      ]
+    },
+    {
+      "id": "CAPACITY",
+      "name": "Capacidad",
+      "value_id": "9087661",
+      "value_name": "825 GB",
+      "values": [
+        {
+          "id": "9087661",
+          "name": "825 GB"
+        }
+      ]
+    },
+    {
+      "id": "COLOR",
+      "name": "Color",
+      "value_id": "59793",
+      "value_name": "Blanco/Negro",
+      "values": [
+        {
+          "id": "59793",
+          "name": "Blanco/Negro"
+        }
+      ]
+    },
+    {
+      "id": "MAIN_COLOR",
+      "name": "Color principal",
+      "value_id": "2450308",
+      "value_name": "Blanco",
+      "values": [
+        {
+          "id": "2450308",
+          "name": "Blanco",
+          "meta": {
+            "rgb": "FFFFFF"
+          }
+        }
+      ],
+      "meta": {
+        "rgb": "FFFFFF"
+      }
+    },
+    {
+      "id": "CONSOLE_TYPE",
+      "name": "Tipo de consola",
+      "value_id": "6827496",
+      "value_name": "De sobremesa",
+      "values": [
+        {
+          "id": "6827496",
+          "name": "De sobremesa"
+        }
+      ]
+    },
+    {
+      "id": "WITH_WI_FI",
+      "name": "Con Wi-Fi",
+      "value_id": "242085",
+      "value_name": "Sí",
+      "values": [
+        {
+          "id": "242085",
+          "name": "Sí",
+          "meta": {
+            "value": true
+          }
+        }
+      ],
+      "meta": {
+        "value": true
+      }
+    },
+    {
+      "id": "ACCESSORIES_INCLUDED",
+      "name": "Accesorios incluidos",
+      "value_id": null,
+      "value_name": "1 soporte vertical, 1 cable de alimentación AC, 1 cable USB, 1 cable HDMI, 1 guía de inicio rápido, 1 guía de seguridad",
+      "values": [
+        {
+          "id": "8294342",
+          "name": "1 soporte vertical"
+        },
+        {
+          "id": "10436855",
+          "name": "1 cable de alimentación AC"
+        },
+        {
+          "id": "8850573",
+          "name": "1 cable USB"
+        },
+        {
+          "id": "8906382",
+          "name": "1 cable HDMI"
+        },
+        {
+          "id": "8294238",
+          "name": "1 guía de inicio rápido"
+        },
+        {
+          "id": "10403520",
+          "name": "1 guía de seguridad"
+        }
+      ]
+    },
+    {
+      "id": "INCLUDES_CONTROLLERS",
+      "name": "Incluye controles",
+      "value_id": "242085",
+      "value_name": "Sí",
+      "values": [
+        {
+          "id": "242085",
+          "name": "Sí",
+          "meta": {
+            "value": true
+          }
+        }
+      ],
+      "meta": {
+        "value": true
+      }
+    },
+    {
+      "id": "CONTROLLERS_NUMBER_INCLUDED",
+      "name": "Cantidad de controles incluidos",
+      "value_id": "7673783",
+      "value_name": "1",
+      "values": [
+        {
+          "id": "7673783",
+          "name": "1"
+        }
+      ]
+    },
+    {
+      "id": "CONTROLLERS_CONNECTIVITIES",
+      "name": "Conectividades de los controles",
+      "value_id": "6827501",
+      "value_name": "Inalámbrico",
+      "values": [
+        {
+          "id": "6827501",
+          "name": "Inalámbrico"
+        }
+      ]
+    },
+    {
+      "id": "GAME_TITLES_INCLUDED",
+      "name": "Títulos de juegos incluidos",
+      "value_id": "11202739",
+      "value_name": "Astro's Playroom",
+      "values": [
+        {
+          "id": "11202739",
+          "name": "Astro's Playroom"
+        }
+      ]
+    },
+    {
+      "id": "POWER_SUPPLY_TYPE",
+      "name": "Tipo de alimentación",
+      "value_id": "8152567",
+      "value_name": "Corriente eléctrica",
+      "values": [
+        {
+          "id": "8152567",
+          "name": "Corriente eléctrica"
+        }
+      ]
+    },
+    {
+      "id": "GAME_FORMATS",
+      "name": "Formatos de juegos",
+      "value_id": null,
+      "value_name": "Ultra HD Blu-ray, Digital, Blu-ray",
+      "values": [
+        {
+          "id": "7751240",
+          "name": "Ultra HD Blu-ray"
+        },
+        {
+          "id": "7667258",
+          "name": "Digital"
+        },
+        {
+          "id": "96342",
+          "name": "Blu-ray"
+        }
+      ]
+    },
+    {
+      "id": "MEMORY_TYPES",
+      "name": "Tipos de memoria",
+      "value_id": "7667114",
+      "value_name": "GDDR6",
+      "values": [
+        {
+          "id": "7667114",
+          "name": "GDDR6"
+        }
+      ]
+    },
+    {
+      "id": "PROCESSOR",
+      "name": "Procesador",
+      "value_id": "9769994",
+      "value_name": "AMD Ryzen Zen 2",
+      "values": [
+        {
+          "id": "9769994",
+          "name": "AMD Ryzen Zen 2"
+        }
+      ]
+    },
+    {
+      "id": "GPU",
+      "name": "GPU",
+      "value_id": "11091239",
+      "value_name": "AMD Radeon RDNA 2",
+      "values": [
+        {
+          "id": "11091239",
+          "name": "AMD Radeon RDNA 2"
+        }
+      ]
+    },
+    {
+      "id": "WITH_TOUCH_SCREEN",
+      "name": "Con pantalla táctil",
+      "value_id": "242084",
+      "value_name": "No",
+      "values": [
+        {
+          "id": "242084",
+          "name": "No",
+          "meta": {
+            "value": false
+          }
+        }
+      ],
+      "meta": {
+        "value": false
+      }
+    },
+    {
+      "id": "IS_EMULATOR",
+      "name": "Es emulador",
+      "value_id": "242084",
+      "value_name": "No",
+      "values": [
+        {
+          "id": "242084",
+          "name": "No",
+          "meta": {
+            "value": false
+          }
+        }
+      ],
+      "meta": {
+        "value": false
+      }
+    },
+    {
+      "id": "WITH_HDMI",
+      "name": "Con HDMI",
+      "value_id": "242085",
+      "value_name": "Sí",
+      "values": [
+        {
+          "id": "242085",
+          "name": "Sí",
+          "meta": {
+            "value": true
+          }
+        }
+      ],
+      "meta": {
+        "value": true
+      }
+    },
+    {
+      "id": "WITH_USB",
+      "name": "Con USB",
+      "value_id": "242085",
+      "value_name": "Sí",
+      "values": [
+        {
+          "id": "242085",
+          "name": "Sí",
+          "meta": {
+            "value": true
+          }
+        }
+      ],
+      "meta": {
+        "value": true
+      }
+    },
+    {
+      "id": "WITH_BLUETOOTH",
+      "name": "Con Bluetooth",
+      "value_id": "242085",
+      "value_name": "Sí",
+      "values": [
+        {
+          "id": "242085",
+          "name": "Sí",
+          "meta": {
+            "value": true
+          }
+        }
+      ],
+      "meta": {
+        "value": true
+      }
+    },
+    {
+      "id": "WITH_DISPLAY",
+      "name": "Con pantalla",
+      "value_id": "242084",
+      "value_name": "No",
+      "values": [
+        {
+          "id": "242084",
+          "name": "No",
+          "meta": {
+            "value": false
+          }
+        }
+      ],
+      "meta": {
+        "value": false
+      }
+    },
+    {
+      "id": "INCLUDES_GAMES",
+      "name": "Incluye juegos",
+      "value_id": "242085",
+      "value_name": "Sí",
+      "values": [
+        {
+          "id": "242085",
+          "name": "Sí",
+          "meta": {
+            "value": true
+          }
+        }
+      ],
+      "meta": {
+        "value": true
+      }
+    },
+    {
+      "id": "RAM_MEMORY",
+      "name": "Memoria RAM",
+      "value_id": "98857",
+      "value_name": "16 GB",
+      "values": [
+        {
+          "id": "98857",
+          "name": "16 GB"
+        }
+      ]
+    },
+    {
+      "id": "MAX_OUTPUT_VIDEO_RESOLUTION",
+      "name": "Resolución máxima de salida de video",
+      "value_id": "7673788",
+      "value_name": "3840 px x 2160 px",
+      "values": [
+        {
+          "id": "7673788",
+          "name": "3840 px x 2160 px"
+        }
+      ]
+    },
+    {
+      "id": "PROCESSOR_SPEED",
+      "name": "Velocidad del procesador",
+      "value_id": "7885835",
+      "value_name": "3.5 GHz",
+      "values": [
+        {
+          "id": "7885835",
+          "name": "3.5 GHz"
+        }
+      ]
+    },
+    {
+      "id": "WEIGHT",
+      "name": "Peso",
+      "value_id": "517203",
+      "value_name": "4.5 kg",
+      "values": [
+        {
+          "id": "517203",
+          "name": "4.5 kg"
+        }
+      ]
+    },
+    {
+      "id": "HEIGHT",
+      "name": "Altura",
+      "value_id": "6012735",
+      "value_name": "104 mm",
+      "values": [
+        {
+          "id": "6012735",
+          "name": "104 mm"
+        }
+      ]
+    },
+    {
+      "id": "WIDTH",
+      "name": "Ancho",
+      "value_id": "2646907",
+      "value_name": "390 mm",
+      "values": [
+        {
+          "id": "2646907",
+          "name": "390 mm"
+        }
+      ]
+    },
+    {
+      "id": "DEPTH",
+      "name": "Profundidad",
+      "value_id": "3112949",
+      "value_name": "260 mm",
+      "values": [
+        {
+          "id": "3112949",
+          "name": "260 mm"
+        }
+      ]
+    },
+    {
+      "id": "BLUETOOTH_TECHNOLOGY_VERSION",
+      "name": "Versión de Bluetooth",
+      "value_id": "9929865",
+      "value_name": "5.1",
+      "values": [
+        {
+          "id": "9929865",
+          "name": "5.1"
+        }
+      ]
+    },
+    {
+      "id": "MAX_FPS_NUMBER",
+      "name": "Cantidad máxima de FPS",
+      "value_id": "11337236",
+      "value_name": "120",
+      "values": [
+        {
+          "id": "11337236",
+          "name": "120"
+        }
+      ]
+    },
+    {
+      "id": "GAMES_NUMBER_INCLUDED",
+      "name": "Cantidad de juegos incluidos",
+      "value_id": "7762094",
+      "value_name": "1",
+      "values": [
+        {
+          "id": "7762094",
+          "name": "1"
+        }
+      ]
+    },
+    {
+      "id": "CPU_CORES_NUMBER",
+      "name": "Cantidad de núcleos de CPU",
+      "value_id": "2549447",
+      "value_name": "8",
+      "values": [
+        {
+          "id": "2549447",
+          "name": "8"
+        }
+      ]
+    },
+    {
+      "id": "MPN",
+      "name": "MPN",
+      "value_id": null,
+      "value_name": "9396406, 3006634, CFI-1015A, CFI-1115A, 3005718",
+      "values": [
+        {
+          "id": "10938474",
+          "name": "9396406"
+        },
+        {
+          "id": "11516853",
+          "name": "3006634"
+        },
+        {
+          "id": "11516854",
+          "name": "CFI-1015A"
+        },
+        {
+          "id": "11516855",
+          "name": "CFI-1115A"
+        },
+        {
+          "id": "11516856",
+          "name": "3005718"
+        }
+      ]
+    }
+  ],
+  "short_description": {
+    "type": "plaintext",
+    "content": "Con tu consola PlayStation 5 tendrás entretenimiento asegurado todos los días. Su tecnología fue creada para poner nuevos retos tanto a jugadores principiantes como expertos. \n\nPlayStation renovó las expectativas del mundo virtual con esta nueva consola y su gran rendimiento. Cuenta con una interfaz de usuario más rápida y fácil de navegar que en anteriores modelos. Además, podrás jugar durante horas desafiando a millones de contrincantes alrededor del mundo que esperan nuevos retos.\n\nCalidad de otro nivel\nSe considera que esta consola es de las mejores dentro del mercado, dado que presenta una resolución de hasta 4K.\n\nAdemás, el control DualSense para PS5 combina estilo y tecnología para que jugar sea más cómodo e interactivo para todos sus jugadores.\n\nAdaptada a tus necesidades\nGuarda tus apps, fotos, videos y mucho más en el disco duro, que cuenta con una capacidad de 825 GB. \nAl contar con un procesador de 8 núcleos y uno gráfico, brinda una experiencia dinámica, respuestas ágiles, y transiciones fluidas de imágenes en alta definición.\nPor otro lado, tiene puerto USB y salida HDMI, que permiten conectar accesorios y cargar la batería de tu control mientras juegas.\n\nVas a poder reproducir música, ver tus películas y series favoritas a través de las aplicaciones descargables. "
+  },
+  "parent_id": "MLC16171887",
+  "children_ids": [],
+  "settings": {
+    "listing_strategy": "catalog_required",
+    "has_rich_description": false
+  }
+}
